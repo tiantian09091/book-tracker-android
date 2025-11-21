@@ -1,4 +1,4 @@
-# CP3406 Assignment 2 – Book Tracker App
+# CP3406 Assignment 2 – study Tracker App
 **Developer:Yuyang Zhou
 **Subject:** CP3406 – Mobile App Development
 
